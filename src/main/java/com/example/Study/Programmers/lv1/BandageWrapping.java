@@ -41,7 +41,6 @@ public class BandageWrapping {
         int maxTime = attacks[attacks.length- 1][0];
         int cnt = 0;
         int x =0;
-        boolean test = false ;
         while(time <= maxTime){
             if(time == attacks[cnt][0]){
                 health = health - attacks[cnt][1];
@@ -55,7 +54,6 @@ public class BandageWrapping {
                 x++;
                 if(x == active){
                     health +=  plusHeal;
-                    health = (maxHealth < health) ? maxHealth : health;
                     x = 0 ;
                 }
                 health = (maxHealth < health) ? maxHealth : health;
