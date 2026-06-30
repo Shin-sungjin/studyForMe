@@ -1,4 +1,4 @@
-package Programmers.lv0;
+package com.example.Study.Programmers.lv0;
 
 /**
  * 숫자와 "Z"가 공백으로 구분되어 담긴 문자열이 주어집니다.

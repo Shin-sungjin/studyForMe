@@ -1,4 +1,4 @@
-package Programmers.lv1;
+package com.example.Study.Programmers.lv1;
 
 public class RootCase {
     /** @Date : 25.05.04

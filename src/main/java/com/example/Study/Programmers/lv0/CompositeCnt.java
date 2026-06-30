@@ -1,4 +1,4 @@
-package Programmers.lv0;
+package com.example.Study.Programmers.lv0;
 
 
 /** 약수의 개수가 세 개 이상인 수를 합성수라고 합니다.

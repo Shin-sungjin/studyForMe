@@ -1,5 +1,4 @@
-package Programmers.lv1;
-
+package  com.example.Study.Programmers.lv1;
 import java.util.Arrays;
 
 /** 코딩테스트를 준비하는 머쓱이는 프로그래머스에서 문제를 풀고

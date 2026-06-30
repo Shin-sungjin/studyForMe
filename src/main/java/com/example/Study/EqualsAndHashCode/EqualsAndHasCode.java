@@ -1,4 +1,4 @@
-package EqualsAndHashCode;
+package com.example.Study.EqualsAndHashCode;
 
 public class EqualsAndHasCode {
     private String name;
